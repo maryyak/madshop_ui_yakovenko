@@ -1,16 +1,14 @@
 # madshop_ui_yakovenko
 
-A new Flutter project.
+Мини-приложение «MadShop Yakovenko» — учебная реализация интерфейса магазина (7 экранов).  
+Этот репозиторий содержит код проекта, инструкции по запуску и скриншоты ключевых экранов.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Как запустить (локально)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Установите Flutter, Xcode/Android Studio и зависимости.
+2. В корне проекта выполните:
+```bash
+flutter pub get
+flutter run
